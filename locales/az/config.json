@@ -56,9 +56,9 @@
   "loadCommentsLazily": "Şərhləri sonradan (lazy) yüklə",
   "loadingCommentsWillBeDeferred": "Şərhlərin yüklənməsi istifadəçi şərhlər konteynerinə yaxınlaşana qədər təxirə salınacaq. Bu, <code><iframe></code> elementinə <a><code>loading=\"lazy\"</code></a> əlavə edilməklə həyata keçirilir.",
 
-  "theme": "Mövzu",
-  "chooseAThemeThatMatches": "Veb saytınıza uyğun bir mövzu seçin. Uyğun olanı tapa bilmirsiniz? Yeni bir mövzu <a>töhfə verin</a>.",
-  "URLToThemeCSS": "Mövzu CSS faylının URL-i:",
+  "theme": "Tema",
+  "chooseAThemeThatMatches": "Veb saytınıza uyğun bir tema seçin. Uyğun olanı tapa bilmirsiniz? Yeni bir tema <a>töhfə verin</a>.",
+  "URLToThemeCSS": "Tema CSS faylının URL-i:",
   "warningExternalCSSUnsafe": "Xəbərdarlıq: xarici CSS yükləmək təhlükəli ola bilər. CSS faylının müəllifinə və təminatçısına etibar etdiyinizdən əmin olun.",
 
   "theme=light": "GitHub Açıq",
@@ -98,7 +98,7 @@
   "[enterCategoryIDHere]": "[KATEQORİYA ID-SİNİ BURA DAXİL EDİN]",
   "[enterTermHere]": "[TERMİNİ BURA DAXİL EDİN]",
   "[enterNumberHere]": "[NÖMRƏNİ BURA DAXİL EDİN]",
-  "[enterThemeCSSURLHere]": "[MÖVZU CSS URL-İNİ BURA DAXİL EDİN]",
+  "[enterThemeCSSURLHere]": "[TEMA CSS URL-İNİ BURA DAXİL EDİN]",
 
   "youCanCustomizeTheLayout": "Konteyner düzümünü yerləşdirilən səhifədən <code>.giscus</code> və <code>.giscus-frame</code> selektorları vasitəsilə fərdiləşdirə bilərsiniz.",
   "tryItOut": "Sınayın"

@@ -2,10 +2,10 @@
 
 [GitHub Discussions][discussions] tərəfindən dəstəklənən şərh sistemi. Ziyarətçilərə GitHub vasitəsilə veb saytınızda şərhlər və reaksiyalar buraxmağa icazə verin! [utterances][utterances]-dən böyük ölçüdə ilhamlanmışdır.
 
-- [Açıq mənbəli][repo]. 🌏
+- [Açıq kodlu][repo]. 🌏
 - İzləmə yoxdur, reklam yoxdur, həmişə pulsuzdur. 📡 🚫
 - Verilənlər bazasına ehtiyac yoxdur. Bütün məlumatlar GitHub Discussions-da saxlanılır. :octocat:
-- [Fərdi mövzuları][creating-custom-themes] dəstəkləyir! 🌗
+- [Fərdi temaları][creating-custom-themes] dəstəkləyir! 🌗
 - [Çoxsaylı dilləri][multiple-languages] dəstəkləyir. 🌐
 - [Geniş konfiqurasiya edilə bilər][advanced-usage]. 🔧
 - GitHub-dan yeni şərhləri və düzəlişləri avtomatik əldə edir. 🔃
